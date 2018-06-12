@@ -1,0 +1,13 @@
+{
+    "editor.wordWrap": "on",
+    "files.trimTrailingWhitespace": true,
+    "git.ignoreLegacyWarning": true,
+    "workbench.startupEditor": "newUntitledFile",
+    "extensions.ignoreRecommendations": false,
+    "files.insertFinalNewline": true,
+    "workbench.colorTheme": "Night Owl No Italics",
+    "workbench.iconTheme": "vscode-icons",
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "window.zoomLevel": 0
+}
