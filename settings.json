@@ -4,22 +4,22 @@
     "workbench.startupEditor": "newUntitledFile",
     "extensions.ignoreRecommendations": false,
     "files.insertFinalNewline": true,
-    "workbench.iconTheme": "vscode-icons",
+    "workbench.iconTheme": "material-icon-theme",
     "telemetry.enableTelemetry": false,
     "telemetry.enableCrashReporter": false,
-    "window.zoomLevel": 0,
+    "window.zoomLevel": 1,
     "workbench.activityBar.visible": true,
     "editor.minimap.enabled": false,
     "gitlens.advanced.messages": {
         "suppressShowKeyBindingsNotice": true
     },
-    "terminal.integrated.fontSize": 11,
+    "terminal.integrated.fontSize": 15,
     "vscode_custom_css.policy": true,
 
-    "workbench.colorTheme": "Cobalt2",
+    "workbench.colorTheme": "1Dark RainCoat Bright Italic",
     // The Cursive font is operator Mono, it's $200 and you need to buy it to get the cursive
-    "editor.fontFamily": "Operator Mono, Menlo, Monaco, 'Courier New', monospace",
-    "editor.fontSize": 16,
+    "editor.fontFamily": "'Fira Code', 'SF Mono', 'Operator Mono', Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontSize": 14,
     "editor.lineHeight": 25,
     "editor.letterSpacing": 0.5,
     "files.trimTrailingWhitespace": true,
@@ -33,7 +33,8 @@
     // Mac/Linux: file:///Users/YOUR-PC-USERNAME/.vscodestyles.css
     // Windows: file:///C:/Users/YOUR-PC-USERNAME/.vscodestyles.css
     "vscode_custom_css.imports": [
-      "file:///Users/limshowchen/.vscodestyles.css"
+      "file:///Users/Vince/.vscodestyles.css"
     ],
-    "editor.renderWhitespace": "all"
+    "editor.renderWhitespace": "all",
+    "editor.fontLigatures": true
 }
